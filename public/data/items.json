@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "name": "Jerky",
+    "icon": "A",
+    "desc": "Dehyrated through inattention",
+    "weight": 3.5
+  },
+  {
+    "id": 1,
+    "name": "Textbook",
+    "icon": "A",
+    "desc": "Knowledge, bidden",
+    "weight": 0.5
+  },
+  {
+    "id": 2,
+    "name": "Flashlight",
+    "icon": "A",
+    "desc": "A welcome improvement to the splashlight",
+    "weight": 5
+  },
+  {
+    "id": 3,
+    "name": "Band-Aid",
+    "icon": "A",
+    "desc": "More musical than you might expect",
+    "weight": 0.2
+  },
+  {
+    "id": 4,
+    "name": "Sandwich",
+    "icon": "A",
+    "desc": "A range of dining possibilities",
+    "weight": 1.5
+  }
+]
